@@ -1,6 +1,6 @@
 # AsyncTraffic Converter
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 
 **AsyncTraffic Converter** — простой и удобный инструмент для конвертации файлов `.session` Telegram в формат `tdata`, совместимый с Telegram Desktop. Программа предлагает графический интерфейс (GUI) и интерфейс командной строки (CLI) для гибкости, а также поддержку SOCKS5 прокси для продвинутых пользователей.
 
