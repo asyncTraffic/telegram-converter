@@ -1,6 +1,6 @@
 # AsyncTraffic Converter
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 **AsyncTraffic Converter** — простой и удобный инструмент для конвертации файлов `.session` Telegram в формат `tdata`, совместимый с Telegram Desktop. Программа предлагает графический интерфейс (GUI) и интерфейс командной строки (CLI) для максимальной гибкости, а также поддержку различных типов прокси.
 
@@ -25,8 +25,6 @@
 
 ## Скриншот
 
-*Вставьте скриншот графического интерфейса здесь, чтобы продемонстрировать его внешний вид.*
-
 ![AsyncTraffic Converter GUI](https://github.com/user-attachments/assets/e2ec19d6-0255-4411-81b5-0cd7dac240b7)
 
 ## Установка
@@ -38,9 +36,9 @@
    ```
 
 2. **Установите зависимости**:
-   Убедитесь, что у вас установлен Python 3.8+, затем установите необходимые пакеты:
+   Убедитесь, что у вас установлен Python 3.10+, затем установите необходимые пакеты:
    ```bash
-   pip install PyQt6 telethon opentele loguru
+   pip install -r requirements.txt
    ```
    Примечание: PyQt6 требуется только для GUI-версии.
 
