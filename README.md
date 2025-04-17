@@ -25,7 +25,7 @@
 
 ## Скриншот
 
-![AsyncTraffic Converter GUI](https://github.com/user-attachments/assets/e2ec19d6-0255-4411-81b5-0cd7dac240b7)
+![AsyncTraffic Converter GUI](https://github.com/user-attachments/assets/65937374-f295-4cc7-894c-5c72fbdc60b8)
 
 ## Установка
 
